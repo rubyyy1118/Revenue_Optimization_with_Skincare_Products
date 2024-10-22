@@ -12,7 +12,7 @@ The project focuses on using **Zero-One Integer Programming** to optimize the se
 
 - `Decision_Making.ipynb`: Jupyter notebook containing the Python code used to build and solve the integer programming model using Gurobi.
 - `Decision Making_report.pdf`: The individual report explaining the problem formulation, model, results, and recommendations based on the analysis.
-- `Skincare_Product_Data.csv`: The dataset of skincare products used for the analysis, including product types and prices. The entire dataset is from Kaggle website: [Skincare Recommendation Engine](https://www.kaggle.com/code/eward96/skincare-recommendation-engine/notebook).
+- `Skincare_Product_Data.xlsx`: The dataset of skincare products used for the analysis, including product types and prices. The entire dataset is from Kaggle website: [Skincare Recommendation Engine](https://www.kaggle.com/code/eward96/skincare-recommendation-engine/notebook).
 
 
 ## 3. Instructions for Running the Code
